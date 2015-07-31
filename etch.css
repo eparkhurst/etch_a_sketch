@@ -1,0 +1,26 @@
+.container{
+	width:320px;
+	height:320px;
+	margin:auto;
+	background-color: yellow;
+	padding: 0;
+	line-height: 0;
+}
+
+.container div{
+	display: inline-block;
+	width:20px;
+	height: 20px;
+/*	margin: 0;
+	padding: 0;*/
+	background-color: red;
+
+}
+
+button{
+	display: block;
+	width: 200px;
+	height: 100px;
+	margin:0 auto 100px;
+	background-color: green;
+}
