@@ -1,26 +1,26 @@
+body{
+	background-color: gray;
+
+}
 .container{
-	width:320px;
-	height:320px;
+	width:480px;
+	height:480px;
 	margin:auto;
-	background-color: yellow;
+	background-color: white;
 	padding: 0;
 	line-height: 0;
+	border:1px solid black;
 }
 
 .container div{
 	display: inline-block;
-	width:20px;
-	height: 20px;
-/*	margin: 0;
-	padding: 0;*/
-	background-color: red;
-
+	background-color: white;
 }
 
 button{
 	display: block;
 	width: 200px;
 	height: 100px;
-	margin:0 auto 100px;
+	margin:0 auto 50px;
 	background-color: green;
 }
